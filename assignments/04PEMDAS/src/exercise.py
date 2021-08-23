@@ -20,6 +20,10 @@ def main():
     print(oper3)
     print(oper4)
     print(oper5)
+<<<<<<< HEAD
+=======
+    
+>>>>>>> c2ceebafba41cd6cfdd3c2d926cceb21cb1a35fa
    
 
 

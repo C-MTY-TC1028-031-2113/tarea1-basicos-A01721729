@@ -8,6 +8,10 @@ def main():
     promedio = (materia1 + materia2 + materia3 + materia4)/4
 
     print ("Promedio: " + str(promedio))
+<<<<<<< HEAD
+=======
+    
+>>>>>>> c2ceebafba41cd6cfdd3c2d926cceb21cb1a35fa
 
 
 if __name__ == '__main__':
